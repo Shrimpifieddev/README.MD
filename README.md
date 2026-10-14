@@ -1,4 +1,4 @@
-# README.MD
+# README.md
 ## The Game (Tiny Puddles)
 
 - **Official Website:** [Tiny Puddles](https://tinypuddle.vercel.app/)
