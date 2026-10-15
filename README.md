@@ -15,3 +15,6 @@
 
 - **GitHub Storage:** [Links Repository File](https://github.com/maksimtchernov1-source/links/blob/main/links)
 - **Bluesky Profile:** [Shrimpified on Bluesky](https://bsky.app/profile/shrimpified-dev.bsky.social)
+
+
+(pointless but should be listed https://shrimpified.carrd.co/)
